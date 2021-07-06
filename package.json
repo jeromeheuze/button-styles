@@ -1,0 +1,32 @@
+{
+  "name": "webdevmastery-v1",
+  "version": "1.0.0",
+  "description": "WebDevMastery",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-util": "^3.0.8",
+    "gulp-watch-sass": "^1.4.1",
+    "node-sass": "^4.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromeheuze/button-styles"
+  },
+  "author": "Jerome Heuze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromeheuze/button-styles/issues"
+  },
+  "homepage": "https://github.com/jeromeheuze/button-styles#readme"
+}

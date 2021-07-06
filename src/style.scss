@@ -1,0 +1,11 @@
+@import "reset";
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  .button-container {
+    padding: 5rem;
+  }
+}
+
